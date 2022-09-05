@@ -16,15 +16,10 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/xpacman/xp-faucet-react.git
+git remote add origin https://gitlab.com/Nanxacom/NanDrop.git
 git branch -M main
 git push -uf origin main
 ```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.com/xpacman/xp-faucet-react/-/settings/integrations)
-
 ## Collaborate with your team
 
 - [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)

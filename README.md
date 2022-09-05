@@ -1,5 +1,5 @@
 
-# xp-faucet-react
+# Nanxa-Airdrop-React
 
 
 
